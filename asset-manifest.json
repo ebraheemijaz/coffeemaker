@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coffeemaker/static/css/main.5f361e03.chunk.css",
+    "main.js": "/coffeemaker/static/js/main.f8b5fd64.chunk.js",
+    "main.js.map": "/coffeemaker/static/js/main.f8b5fd64.chunk.js.map",
+    "runtime-main.js": "/coffeemaker/static/js/runtime-main.3c126ab7.js",
+    "runtime-main.js.map": "/coffeemaker/static/js/runtime-main.3c126ab7.js.map",
+    "static/js/2.735f21a8.chunk.js": "/coffeemaker/static/js/2.735f21a8.chunk.js",
+    "static/js/2.735f21a8.chunk.js.map": "/coffeemaker/static/js/2.735f21a8.chunk.js.map",
+    "index.html": "/coffeemaker/index.html",
+    "precache-manifest.9d7ecc1069d02aab75db60bade55028e.js": "/coffeemaker/precache-manifest.9d7ecc1069d02aab75db60bade55028e.js",
+    "service-worker.js": "/coffeemaker/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/coffeemaker/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.735f21a8.chunk.js.LICENSE.txt": "/coffeemaker/static/js/2.735f21a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c126ab7.js",
+    "static/js/2.735f21a8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f8b5fd64.chunk.js"
+  ]
+}
